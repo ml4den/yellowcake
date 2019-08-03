@@ -4,6 +4,11 @@ slug: ''
 title: Yellowcake
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
 subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+accordion:
+  - content: lorem ipsum!
+    title: First item
+  - content: Dolor sit amet.
+    title: Second item
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
